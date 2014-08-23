@@ -1,5 +1,6 @@
 LinkMeClient
 ============
 
-LinkMe-Client use Phonegap to do
+LinkMe-Client used oc to do
+
 Support by Bee Framwork
